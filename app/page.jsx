@@ -8,7 +8,7 @@ const Home = () => {
     <span className="orange_gradient text-center">AI-Powered promt</span>
     </h1>
     <p>
-        Promtopia is an open source project to discover and share ai prompts
+        PromtAI is an open source project to discover and share ai prompts. Search by tag or content and visit the prompts creator profile to check their work!
     </p>
 
     <Feed />
